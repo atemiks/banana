@@ -1,7 +1,5 @@
 const links = [
-    'https://t.me/OfficialBananaBot/banana?startapp=referral=RJLG4E', // i
     'https://t.me/OfficialBananaBot/banana?startapp=referral=7SJPLC',
-    'https://t.me/OfficialBananaBot/banana?startapp=referral=RJLG4E', // i
     'https://t.me/OfficialBananaBot/banana?startapp=referral=C9A9M76',
 ];
 
